@@ -19,7 +19,10 @@ class Posty():
                 raw_shortened_url = urllib.request.urlopen(request_link).read()
                 decoded_shortened_url = raw_shortened_url.decode('utf-8')
 
-                print(decoded_shortened_url)
+                clipboard.copy(decoded_shortened_url)
+                
+                print('Copied to clipboard: ' + decoded_shortened_url)
+
 
             except urllib.error.HTTPError:
                 print('An HTTP error ocurred.')
