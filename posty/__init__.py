@@ -1,0 +1,1 @@
+from posty.posty import Posty

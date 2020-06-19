@@ -29,5 +29,5 @@ class Posty():
         else:
             print('Error: Invalid link.')
 
-if __name__=="__main__":
+def main():
     Posty().shorten()
