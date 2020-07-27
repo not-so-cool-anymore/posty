@@ -10,3 +10,6 @@ You can install it from PyPi with `pip install i-posty` or locally with `pip ins
 ## Usage
 You can run Posty by writing `posty` on the command line. It will copy the content of your clipboard, validate if it is a valid URL
 with Regex, shorten it and copy it to the clipboard again.
+
+## Requirements
+ * Clipboard - `pip install clipboard`
