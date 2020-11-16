@@ -1,6 +1,6 @@
 # Posty
 
-Posty is just a basic command line URL shortener that uses the Tinyurl API.
+![posty](https://socialify.git.ci/not-so-cool-anymore/posty/image?description=1&descriptionEditable=A%20basic%20command%20line%20URL%20shortener%20wrapped%20around%20the%20Tinyurl%20API.&font=KoHo&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 ---
 
