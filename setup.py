@@ -5,7 +5,7 @@ with open('README.md') as readme:
 
 setuptools.setup(
     name='i-posty',
-    version='0.0.2',
+    version='1.0.0',
     author='Ivan Zlatanov',
     author_email='i_zlatanov@protonmail.com',
     description='A lightweight command-line link shortening tool for Linux.',
